@@ -14,11 +14,11 @@ const Navbar = () => (
   >
     <div className="absolute w-[50%] inset-0 gradient-01" />
     <div className={`${styles.innerWidth} mx-auto flex justify-between gap-8`}>
-        <img
-          src="/logo.png"
-          alt="logo"
-          className="w-[42px] h-[42px] object-contain"
-        />
+      <img
+        src="/logo.png"
+        alt="logo"
+        className="w-[42px] h-[42px] object-contain"
+      />
       <h2 className="font-extrabold text-[20px] loading-[30px] text-white">
         AQSA - METAVERSE
       </h2>

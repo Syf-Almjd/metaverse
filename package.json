@@ -17,9 +17,9 @@
     "css"
   ],
   "scripts": {
-      "dev": "next dev -p 101",
+    "dev": "next dev -p 101",
     "build": "next build && next export",
-  "start": "next start -p 101",
+    "start": "next start -p 101",
     "lint": "next lint"
   },
   "dependencies": {
