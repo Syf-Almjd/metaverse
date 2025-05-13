@@ -35,7 +35,7 @@ const WhatsNew = () => (
         className={`flex-1 ${styles.flexCenter}`}
       >
         <img
-          src={getAssetPath('/whats-new.png')} 
+          src={getAssetPath('/whats-new.png')}
           alt="What's New"
           className="w-[90%] h-[90%] object-contain"
         />

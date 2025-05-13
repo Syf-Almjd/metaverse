@@ -16,7 +16,7 @@ const Navbar = () => (
     <div className="absolute w-[50%] inset-0 gradient-01" />
     <div className={`${styles.innerWidth} mx-auto flex justify-between gap-8`}>
       <img
-      src={getAssetPath("/logo.png")}
+        src={getAssetPath("/logo.png")}
         alt="logo"
         className="w-[42px] h-[42px] object-contain"
       />
@@ -30,7 +30,7 @@ const Navbar = () => (
         title="Github"
       >
         <img
-          src={getAssetPath('/github.svg')} 
+          src={getAssetPath("/github.svg")}
           alt="Menu"
           className="w-[24px] h-[24px] object-contain"
         />

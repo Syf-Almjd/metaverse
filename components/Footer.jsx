@@ -27,7 +27,7 @@ const Footer = () => (
           className="flex items-center h-fit py-4 px-6 bg-[#25618b] rounded-[32px] gap-[12px]"
         >
           <img
-            src={getAssetPath('/headset.svg')} 
+            src={getAssetPath("/headset.svg")}
             alt="Headset"
             className="w-[24px] h-[24px] object-contain"
           />
@@ -48,7 +48,7 @@ const Footer = () => (
         <div className="flex items-center justify-between flex-wrap gap-4">
           <h4 className="font-extrabold text-[24px] text-white">Metaverse</h4>
           <p className="font-normal text-[14px] text-white opacity-50">
-            Copyright &copy; {new Date().getFullYear()} -{" "}
+            Copyright &copy; {new Date().getFullYear()}-{" "}
             {new Date().getFullYear() + 1}{" "}
             <span className="font-extrabold">Metaverse</span>. All Rights
             Reserved.

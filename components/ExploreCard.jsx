@@ -29,7 +29,7 @@ const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
           className={`${styles.flexCenter} w-[60px] h-[60px] rounded-[24px] glassmorphism mb-[16px]`}
         >
           <img
-            src={getAssetPath('/headset.svg')} 
+            src={getAssetPath("/headset.svg")}
             alt="Headset"
             className="w-1/2 h-1/2 object-contain"
           />

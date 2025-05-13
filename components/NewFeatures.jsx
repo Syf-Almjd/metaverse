@@ -1,5 +1,5 @@
 import styles from "../styles";
-import { getAssetPath } from '../utils/getAssetPath';
+import { getAssetPath } from "../utils/getAssetPath";
 
 const NewFeatures = ({ imgUrl, title, subtitle }) => (
   <div className="flex-1 flex flex-col sm:max-w-[250px] min-w-[210px]">
@@ -7,7 +7,7 @@ const NewFeatures = ({ imgUrl, title, subtitle }) => (
       className={`${styles.flexCenter} w-[70px] h-[70px] rounded-[24px] bg-[#323f5d]`}
     >
       <img
-      src={getAssetPath(imgUrl)}
+        src={getAssetPath(imgUrl)}
         alt={`${title}'s icon`}
         className="w-1/2 h-1/2 object-contain"
       />
