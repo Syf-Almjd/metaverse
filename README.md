@@ -1,6 +1,6 @@
-# Modern Metaverse App using React JS
+# Modern Metaverse App using Next JS
 
-![Modern Metaverse App using React JS](/.github/images/img_main.png "Modern Metaverse App using React JS")
+![Modern Metaverse App using Next JS](/.github/images/img_main.png "Modern Metaverse App using Next JS")
 
 [![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Syf-Almjd "Ask Me Anything!")
 [![GitHub license](https://img.shields.io/github/license/Technical-Shubham-tech/Metaverse?)](https://github.com/Syf-Almjd/Metaverse/blob/main/LICENSE.md "GitHub license")
@@ -31,7 +31,7 @@
 
 [<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="150" height="40" />](https://www.javascript.com/ "JavaScript")
 
-[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="150" />](https://reactjs.org/ "React JS")
+[<img src="https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=Next&logoColor=61DAFB" width="150" />](https://Nextjs.org/ "Next JS")
 
 [<img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" width="150" />](https://www.framer.com/ "Framer Motion")
 
@@ -77,7 +77,7 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of Next pages.
 
 ## :books: Learn More
 
