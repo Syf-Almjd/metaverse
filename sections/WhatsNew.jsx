@@ -6,6 +6,7 @@ import styles from "../styles";
 import { fadeIn, planetVariants, staggerContainer } from "../utils/motion";
 import { NewFeatures, TitleText, TypingText } from "../components";
 import { newFeatures } from "../constants";
+import { getAssetPath } from '../utils/getAssetPath';
 
 const WhatsNew = () => (
   <section className={`${styles.paddings} relative z-10`}>
@@ -34,7 +35,7 @@ const WhatsNew = () => (
         className={`flex-1 ${styles.flexCenter}`}
       >
         <img
-          src="/whats-new.png"
+          src={getAssetPath('/whats-new.png')} 
           alt="What's New"
           className="w-[90%] h-[90%] object-contain"
         />

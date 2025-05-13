@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 
 import styles from "../styles";
 import { fadeIn } from "../utils/motion";
+import { getAssetPath } from "../utils/getAssetPath";
 
 const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
   <motion.div
@@ -14,7 +15,7 @@ const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
     onClick={() => handleClick(id)}
   >
     <img
-      src={imgUrl}
+      src={getAssetPath(imgUrl)}
       alt={title}
       className="absolute w-full h-full object-cover rounded-[24px]"
     />
@@ -28,7 +29,7 @@ const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
           className={`${styles.flexCenter} w-[60px] h-[60px] rounded-[24px] glassmorphism mb-[16px]`}
         >
           <img
-            src="/headset.svg"
+            src={getAssetPath('/headset.svg')} 
             alt="Headset"
             className="w-1/2 h-1/2 object-contain"
           />

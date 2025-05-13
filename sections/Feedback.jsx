@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 
 import styles from "../styles";
 import { fadeIn, staggerContainer, zoomIn } from "../utils/motion";
+import { getAssetPath } from "../utils/getAssetPath";
 
 const Feedback = () => (
   <section className={`${styles.paddings} relative z-10`}>
@@ -38,7 +39,8 @@ const Feedback = () => (
         className="relative flex-1 flex justify-center items-center"
       >
         <img
-          src="/planet-09.png"
+              src={getAssetPath("/planet-09.png")}
+
           alt="Planet 09"
           className="w-full lg:h-[610px] h-auto min-h-[210px] object-cover rounded-[40px]"
         />
@@ -48,7 +50,7 @@ const Feedback = () => (
           className="lg:block hidden absolute -left-[10%] top-[3%]"
         >
           <img
-            src="/stamp.png"
+            src={getAssetPath('/stamp.png')} 
             alt="Stamp"
             className="w-[155px] h-[155px] object-contain"
           />

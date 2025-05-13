@@ -5,6 +5,7 @@ import { motion } from "framer-motion";
 import { socials } from "../constants";
 import styles from "../styles";
 import { footerVariants } from "../utils/motion";
+import { getAssetPath } from "../utils/getAssetPath";
 
 const Footer = () => (
   <motion.footer
@@ -26,7 +27,7 @@ const Footer = () => (
           className="flex items-center h-fit py-4 px-6 bg-[#25618b] rounded-[32px] gap-[12px]"
         >
           <img
-            src="/headset.svg"
+            src={getAssetPath('/headset.svg')} 
             alt="Headset"
             className="w-[24px] h-[24px] object-contain"
           />
@@ -57,7 +58,7 @@ const Footer = () => (
             {socials.map((social) => (
               <a href={social.url} target="_blank" rel="noreferrer noopener">
                 <img
-                  src={social.icon}
+                  src={getAssetPath(social.icon)}
                   alt={social.name}
                   key={social.name}
                   title={social.name}
