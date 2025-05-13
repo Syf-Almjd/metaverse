@@ -14,19 +14,19 @@ const Navbar = () => (
   >
     <div className="absolute w-[50%] inset-0 gradient-01" />
     <div className={`${styles.innerWidth} mx-auto flex justify-between gap-8`}>
-      <img
-        src="/search.svg"
-        alt="Search"
-        className="w-[24px] h-[24px] object-contain"
-      />
-      <h2 className="font-extrabold text-[24px] loading-[30px] text-white">
-        METAVERSUS
+        <img
+          src="/logo.png"
+          alt="logo"
+          className="w-[42px] h-[42px] object-contain"
+        />
+      <h2 className="font-extrabold text-[20px] loading-[30px] text-white">
+        AQSA - METAVERSE
       </h2>
       <a
-        href="https://github.com/sanidhyy/metaversus"
+        href="https://github.com/Al-Aqsa-Technology"
         target="_blank"
         rel="noreferrer noopener"
-        title="Source Code"
+        title="Github"
       >
         <img
           src="/github.svg"

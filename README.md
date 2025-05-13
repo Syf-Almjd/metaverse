@@ -2,14 +2,14 @@
 
 ![Modern Metaverse App using React JS](/.github/images/img_main.png "Modern Metaverse App using React JS")
 
-[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Technical-Shubham-tech "Ask Me Anything!")
-[![GitHub license](https://img.shields.io/github/license/Technical-Shubham-tech/metaversus?)](https://github.com/Technical-Shubham-tech/metaversus/blob/main/LICENSE.md "GitHub license")
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Technical-Shubham-tech/metaversus/commits/main "Maintenance")
-[![GitHub branches](https://badgen.net/github/branches/Technical-Shubham-tech/metaversus?max-age=2592000)](https://github.com/Technical-Shubham-tech/metaversus/branches "GitHub branches")
-[![Github commits](https://badgen.net/github/commits/Technical-Shubham-tech/metaversus/main?max-age=2592000)](https://github.com/Technical-Shubham-tech/metaversus/commits "Github commits")
-[![Website Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://metaversusapp.vercel.app/ "Website Status")
-[![GitHub issues](https://img.shields.io/github/issues/Technical-Shubham-tech/metaversus)](https://github.com/Technical-Shubham-tech/metaversus/issues "GitHub issues")
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/Technical-Shubham-tech/metaversus)](https://github.com/Technical-Shubham-tech/metaversus/pulls "GitHub pull requests")
+[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Syf-Almjd "Ask Me Anything!")
+[![GitHub license](https://img.shields.io/github/license/Technical-Shubham-tech/Metaverse?)](https://github.com/Syf-Almjd/Metaverse/blob/main/LICENSE.md "GitHub license")
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Syf-Almjd/Metaverse/commits/main "Maintenance")
+[![GitHub branches](https://badgen.net/github/branches/Technical-Shubham-tech/Metaverse?max-age=2592000)](https://github.com/Syf-Almjd/Metaverse/branches "GitHub branches")
+[![Github commits](https://badgen.net/github/commits/Technical-Shubham-tech/Metaverse/main?max-age=2592000)](https://github.com/Syf-Almjd/Metaverse/commits "Github commits")
+[![Website Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://Metaverseapp.vercel.app/ "Website Status")
+[![GitHub issues](https://img.shields.io/github/issues/Technical-Shubham-tech/Metaverse)](https://github.com/Syf-Almjd/Metaverse/issues "GitHub issues")
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/Technical-Shubham-tech/Metaverse)](https://github.com/Syf-Almjd/Metaverse/pulls "GitHub pull requests")
 
 ## :pushpin: How to use this App?
 
@@ -35,7 +35,7 @@
 
 [<img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" width="150" />](https://www.framer.com/ "Framer Motion")
 
-[<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love">](https://github.com/Technical-Shubham-tech/ "Built with Love")
+[<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love">](https://github.com/Syf-Almjd/ "Built with Love")
 
 ## :wrench: Stats
 
@@ -51,7 +51,7 @@ You might encounter some bugs while using this app. You are more than welcome to
 
 ## :rocket: Follow Me
 
-[![GitHub followers](https://img.shields.io/github/followers/Technical-Shubham-tech?style=social&label=Follow&maxAge=2592000)](https://github.com/Technical-Shubham-tech "Follow Me")
+[![GitHub followers](https://img.shields.io/github/followers/Technical-Shubham-tech?style=social&label=Follow&maxAge=2592000)](https://github.com/Syf-Almjd "Follow Me")
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FTechnical-Shubham-tech%2Fmedical-chat-app "Tweet")
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNAz_hUVBG2ZUN8TVm0bmYw "Subscribe my Channel")
 

@@ -1,7 +1,7 @@
 ## Contributing
 
-[fork]: https://github.com/Technical-Shubham-tech/metaversus/fork
-[pr]: https://github.com/Technical-Shubham-tech/metaversus/compare
+[fork]: https://github.com/Syf-Almjd/Metaverse/fork
+[pr]: https://github.com/Syf-Almjd/Metaverse/compare
 [style]: https://standardjs.com/
 [code-of-conduct]: CODE_OF_CONDUCT.md
 

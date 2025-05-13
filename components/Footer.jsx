@@ -30,9 +30,14 @@ const Footer = () => (
             alt="Headset"
             className="w-[24px] h-[24px] object-contain"
           />
-          <span className="font-normal text-[16px] text-white text-uppercase">
-            Enter Metaverse
-          </span>
+          <a 
+            href="https://bot.alaqsa.tech/lead"
+            className="font-normal text-[16px] text-white uppercase"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Join waitlist
+          </a>
         </button>
       </div>
 
@@ -40,11 +45,11 @@ const Footer = () => (
         <div className="mb-[50px] h-[2px] bg-white opacity-10" />
 
         <div className="flex items-center justify-between flex-wrap gap-4">
-          <h4 className="font-extrabold text-[24px] text-white">Metaversus</h4>
+          <h4 className="font-extrabold text-[24px] text-white">Metaverse</h4>
           <p className="font-normal text-[14px] text-white opacity-50">
             Copyright &copy; {new Date().getFullYear()} -{" "}
             {new Date().getFullYear() + 1}{" "}
-            <span className="font-extrabold">Metaversus</span>. All Rights
+            <span className="font-extrabold">Metaverse</span>. All Rights
             Reserved.
           </p>
 

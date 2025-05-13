@@ -50,43 +50,43 @@ export const newFeatures = [
 export const insights = [
   {
     imgUrl: "/planet-06.png",
-    title: "The launch of the Metaverse makes Elon musk ketar-ketir",
+    title: "The launch of the Metaverse makes Elon musk Crazy",
     subtitle:
-      "Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.",
+      "The launch of the Metaverse has sent shockwaves through the tech industry, with Elon Musk being one of the most vocal critics.",
   },
   {
     imgUrl: "/planet-07.png",
     title: "7 tips to easily master the madness of the Metaverse",
     subtitle:
-      "Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum",
+      "From understanding the concept of virtual reality to learning how to navigate the Metaverse, here are 7 tips to help you master the madness.",
   },
   {
     imgUrl: "/planet-08.png",
     title: "With one platform you can explore the whole world virtually",
     subtitle:
-      "Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem",
+      "With the Metaverse, you can explore the world virtually, without having to physically travel. This opens up new possibilities for education, entertainment, and more.",
   },
 ];
 
 export const socials = [
   {
-    name: "Twitter",
-    icon: "/twitter.svg",
-    url: "https://www.twitter.com",
+    name: "TikTok",
+    icon: "/tiktok.svg",
+    url: "https://www.tiktok.com/@alaqsa.inc",
   },
   {
     name: "Linkedin",
     icon: "/linkedin.svg",
-    url: "https://www.linkedin.com",
+    url: "https://www.linkedin.com/company/al-aqsa-technology",
   },
   {
     name: "Instagram",
     icon: "/instagram.svg",
-    url: "https://www.instagram.com",
+    url: "https://www.instagram.com/alaqsa.inc/#",
   },
-  {
-    name: "Facebook",
-    icon: "/facebook.svg",
-    url: "https://www.facebook.com",
-  },
+  // {
+    // name: "Facebook",
+    // icon: "/logo.png",
+    // url: "https://alaqsa.tech/",
+  // },
 ];

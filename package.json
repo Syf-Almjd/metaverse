@@ -1,5 +1,5 @@
 {
-  "name": "metaversus",
+  "name": "Metaverse",
   "version": "0.1.0",
   "private": true,
   "license": "MIT",
@@ -17,9 +17,9 @@
     "css"
   ],
   "scripts": {
-    "dev": "next dev",
+      "dev": "next dev -p 101",
     "build": "next build && next export",
-    "start": "next start",
+  "start": "next start -p 101",
     "lint": "next lint"
   },
   "dependencies": {
